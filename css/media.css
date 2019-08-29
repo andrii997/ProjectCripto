@@ -1,0 +1,7 @@
+@media (max-width: 425px) {
+	.container .data_table .data_row_box {
+		max-height: 128px;
+	}
+
+	
+}
